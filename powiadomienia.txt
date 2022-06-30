@@ -1,0 +1,1 @@
+Cześć root! Potwierdzamy rezerwację prelekcji [3] Lecture name: n3, Lecture subject: s3, Lecture start time: 10:00, Lecture end time: 11:45, Available seats: 3
